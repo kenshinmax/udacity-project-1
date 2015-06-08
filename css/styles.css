@@ -6,37 +6,41 @@
 }
 
 *{
-  
-  font-family: 'Lato', sans-serif;
-  color: #BCBBBB;
+  font-family: "Lato", sans-serif;
+  color: #bcbbbb;
 }
-
-#banner img{
+hr {
+  border: 0;
+  background-color: #d0d0d0;
+  width: 100%;
+  height: 3px !important;
+}
+#banner img {
   width:100%;
 }
 
-#title h3{
+#title h3 {
   padding-left:25px;
 }
 
-#featured img{
-	width:100%;
+#featured img {
+  width:100%;
 }
-#featured h3{
-	text-align:center;
+#featured h3 {
+  text-align:center;
 }
 
-#header{
+#topnav {
   padding-left:25px;
   text-align:right;
 }
-#header h1{
+#topnav h1 {
   font-weight: 200 !important;
   text-transform: uppercase;  
 }
-#header h4{
+#topnav h4 {
   text-transform: uppercase;
 }
-#featured h3{
+#featured h3 {
   text-transform: uppercase;
 }    	
