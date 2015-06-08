@@ -28,10 +28,11 @@
 
 #header{
   padding-left:25px;
+  text-align:right;
 }
 #header h1{
   font-weight: 200 !important;
-  text-transform: uppercase;
+  text-transform: uppercase;  
 }
 #header h4{
   text-transform: uppercase;
